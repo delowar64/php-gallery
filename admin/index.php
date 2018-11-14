@@ -27,6 +27,14 @@ include ("includes/navigation.php");
             </div>
             <!-- /.row -->
 
+            <div class="row">
+                <div class="col-md-12">
+                    <?php
+                        include('includes/admin_content.php');
+                    ?>
+                </div>
+            </div>
+
         </div>
         <!-- /.container-fluid -->
 

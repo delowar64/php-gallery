@@ -1,7 +1,7 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: delowar
- * Date: 11/13/18
- * Time: 11:30 PM
- */
+
+define('DB_HOST', 'localhost');
+define('DB_USER', 'root');
+define('DB_PASS', 'root');
+define('DB_NAME', 'gallery');
+
